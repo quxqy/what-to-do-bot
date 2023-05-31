@@ -1,4 +1,6 @@
 telebot
-types
-telebot_calendar
+types from telebot
+Calendar from telebot_calendar
+CallbackData from telebot_calendar
 datetime
+
