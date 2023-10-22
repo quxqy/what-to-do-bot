@@ -1,4 +1,4 @@
-# Simple Telegram Bot for Task Management
+# Telegram Bot for Task Management
 A telegram bot that is used for scheduling and managing tasks. It can add new tasks for specific dates and display all the tasks scheduled for the selected date.
 
 ### Requirements
